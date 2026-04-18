@@ -1,6 +1,6 @@
 [
   {
     "name": "ApacheServer",
-    "imageUri": "281934899210.dkr.ecr.us-east-2.amazonaws.com/actions/image-ecr"
+    "imageUri": "281934899210.dkr.ecr.us-east-2.amazonaws.com/action/image-ecr:latest"
   }
 ]
